@@ -1,0 +1,9 @@
+:root {
+    --main-button: #596d48;
+    --input-border: #e5e7eb;
+}
+
+@font-face {
+    font-family: "Norse Bold";
+    src: url("./fonts/Norse-bold.otf");
+}
